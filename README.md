@@ -4,7 +4,7 @@ This repository contains the code and resources for the ATSM ChitraAssessment 20
 
 ## Quick overview
 
-Short description: Replace this with a one-line summary of the project and its purpose.
+Short description: Created for practice 
 
 ## Getting started
 
